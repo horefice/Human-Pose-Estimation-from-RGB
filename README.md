@@ -14,14 +14,11 @@ I'll use the following icons and dimensions to differentiate the approaches:
 - Number of People
 	- :one: Single Person
 	- :1234: Multiple People
-- [Spatial Dimensions](#spatial)
+- [Spatial Dimensions]
 	- [2D Models](#2d_models)
 	- [3D Models](#3d_models)
 
-
-<a name="spatial" />
-
-## Content
+## Projects and papers
 
 <a name="2d_models" />
 
@@ -33,6 +30,6 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="3d_models" />
 
 ### 3D Models
-<b>VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> :movie_camera: :one: [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+<b>[:movie_camera::one:] VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
