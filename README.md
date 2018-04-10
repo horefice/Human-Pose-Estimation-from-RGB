@@ -6,60 +6,33 @@ To make it a collaborative project, you may add content through pull requests or
 
 ## Table of Contents
 
-I'll use the following icons to differentiate the approaches:
-* :camera: Multi-view Images
-* :space_invader: Volumetric
-* :game_die: Point Cloud
-* :gem: Polygonal Mesh
-* :pill: Primitive-based
+I'll use the following icons and dimensions to differentiate the approaches:
 
-- [Spatial Dimension](#spatial)
-	- [2D Models]
-	- [3D Models]
-- [Time Dimension](#time)
-	- [Single-Shot] :camera:
-	- [Real-Time]
-- [Number of People](#number_people)
-	- [Single Person]
-	- [Multiple People]
+- Time Dimension
+	- :camera: Single-Shot 
+	- :movie_camera: Real-Time
+- Number of People
+	- :one: Single Person
+	- :1234: Multiple People
+- [Spatial Dimensions](#spatial)
+	- [2D Models](#2d_models)
+	- [3D Models](#3d_models)
 
 
 <a name="spatial" />
 
-### Spatial Dimension
+## Content
+
+<a name="2d_models" />
 
 ### 2D Models
+<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
+
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
 
 <a name="3d_models" />
 
 ### 3D Models
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
+<b>VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> :movie_camera: :one: [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
-<a name="time" />
-
-## Time Dimension
-
-<a name="single_shot" />
-
-### Single-Shot
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
-
-<a name="real_time" />
-
-### Real-Time
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
-
-<a name="number_people" />
-
-## Number of People
-
-<a name="single_person" />
-
-### Single Person
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
-
-<a name="multiple_people" />
-
-### Multiple People
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
