@@ -5,22 +5,28 @@ In recent years, tremendous amount of progress is being made in the field of Hum
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
 ## Table of Contents
+
+I'll use the following icons to differentiate the approaches:
+* :camera: Multi-view Images
+* :space_invader: Volumetric
+* :game_die: Point Cloud
+* :gem: Polygonal Mesh
+* :pill: Primitive-based
+
 - [Spatial Dimension](#spatial)
-	- [2D Models](#2d_models)
-	- [3D Models](#3d_models)
+	- [2D Models]
+	- [3D Models]
 - [Time Dimension](#time)
-	- [Single-Shot](#single_shot)
-	- [Real-Time](#real_time)
+	- [Single-Shot] :camera:
+	- [Real-Time]
 - [Number of People](#number_people)
-	- [Single Person](#single_person)
-	- [Multiple People](#multiple_people)
+	- [Single Person]
+	- [Multiple People]
 
 
 <a name="spatial" />
 
-## Spatial Dimension
-
-<a name="2d_models" />
+### Spatial Dimension
 
 ### 2D Models
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
