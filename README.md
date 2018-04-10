@@ -30,6 +30,6 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="3d_models" />
 
 ### 3D Models
-<b>[:movie_camera::one:] VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+<b>:movie_camera::one: VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
