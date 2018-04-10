@@ -12,9 +12,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 	- :camera: Single-Shot 
 	- :movie_camera: Real-Time
 - Number of People
-	- :one: Single Person
-	- :1234: Multiple People
-- [Spatial Dimensions]
+	- :one: Single-Person
+	- :1234: Multi-Person
+- Spatial Dimensions
 	- [2D Models](#2d_models)
 	- [3D Models](#3d_models)
 
@@ -32,4 +32,4 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ### 3D Models
 <b>:movie_camera::one: VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
+<b>:camera::1234: Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
