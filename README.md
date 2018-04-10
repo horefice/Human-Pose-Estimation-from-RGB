@@ -15,10 +15,13 @@ To make it a collaborative project, you may add content through pull requests or
 	- [Single Person](#single_person)
 	- [Multiple People](#multiple_people)
 
+
 <a name="spatial" />
+
 ## Spatial Dimension
 
 <a name="2d_models" />
+
 ### 2D Models
 <b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
 
