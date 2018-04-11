@@ -23,13 +23,16 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="2d_models" />
 
 ### 2D Models
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
-
-<b>Model(YYYY)</b> [[Link]](http://www.tum.de/)
+<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2016)</b> [[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
 
 <a name="3d_models" />
 
 ### 3D Models
-<b>:movie_camera::one: VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+<b>:movie_camera::one: VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)[[Paper]](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf)
 
 <b>:camera::1234: Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
+
+<b>:camera::one: Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)[[Paper]](https://arxiv.org/pdf/1611.09813.pdf)
+
+<b>:camera::1234: DensePose:
+Dense Human Pose Estimation In The Wild (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
