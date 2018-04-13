@@ -35,4 +35,6 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::one: Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)[[Paper]](https://arxiv.org/pdf/1611.09813.pdf)
 
 <b>:camera::1234: DensePose:
-Dense Human Pose Estimation In The Wild (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
+Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://densepose.org)[[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
+
+<b>:movie_camera::one: End-to-end Recovery of Human Shape and Pose (2017)</b> [[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
