@@ -23,7 +23,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="2d_models" />
 
 ### 2D Models
-<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2016)</b> [[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
+<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2016)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
 
 <a name="3d_models" />
 
@@ -37,4 +37,4 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::1234: DensePose:
 Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://densepose.org)[[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
 
-<b>:movie_camera::one: End-to-end Recovery of Human Shape and Pose (2017)</b> [[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
+<b>:movie_camera::one: End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
