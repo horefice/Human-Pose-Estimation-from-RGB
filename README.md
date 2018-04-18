@@ -28,6 +28,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="3d_models" />
 
 ### 3D Models
+<b>:camera::one: A simple yet effective baseline for 3d human pose estimation (2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)[[Paper]](https://arxiv.org/pdf/1705.03098.pdf)
+
 <b>:movie_camera::one: VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)[[Paper]](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf)
 
 <b>:camera::1234: Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
@@ -38,3 +40,5 @@ I'll use the following icons and dimensions to differentiate the approaches:
 Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://densepose.org)[[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
 
 <b>:movie_camera::one: End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
+
+<b>:movie_camera::1234: LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)[[Paper]](https://arxiv.org/pdf/1803.00455.pdf)
