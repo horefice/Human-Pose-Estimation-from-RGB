@@ -10,7 +10,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 - Time Dimension
 	- :camera: Single-Shot 
-	- :movie_camera: Real-Time
+	- :movie_camera: Video/Real-Time
 - Number of People
 	- :one: Single-Person
 	- :1234: Multi-Person
@@ -24,6 +24,10 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 ### 2D Models
 <b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2016)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
+
+<b>:camera::one: Convolutional Pose Machines (2017)</b> [[Paper]](https://arxiv.org/pdf/1602.00134.pdf)
+
+<b>:camera::one: Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1705.00389.pdf)
 
 <a name="3d_models" />
 
@@ -42,3 +46,19 @@ Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://dense
 <b>:movie_camera::one: End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
 
 <b>:movie_camera::1234: LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)[[Paper]](https://arxiv.org/pdf/1803.00455.pdf)
+
+<b>:movie_camera::one: Spatio-temporal Matching for Human Pose Estimation (2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)[[Paper]](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf)
+
+<b>:movie_camera::one: Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (2016)</b> [[Paper]](https://arxiv.org/pdf/1511.09439.pdf)
+
+<b>:camera::one: Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1611.05708.pdf)
+
+<b>:camera::one: Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image (2016)</b> [[Paper]](https://arxiv.org/pdf/1607.08128.pdf)
+
+<b>:camera::one: MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild (2016)</b> [[Paper]](https://arxiv.org/pdf/1607.02046.pdf)
+
+<b>:camera::one: Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (2017)</b> [[Paper]](https://arxiv.org/pdf/1701.00295.pdf)
+
+
+
+
