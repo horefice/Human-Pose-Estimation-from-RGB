@@ -59,4 +59,4 @@ Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://dense
 
 <b>:camera::one: Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (2017)</b> [[Paper]](https://arxiv.org/pdf/1701.00295.pdf)
 
-<b>:camera::one: MonoPerfCap: Human Performance Capture from Monocular Video (2018) </b> [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
+<b>:camera::one: MonoPerfCap: Human Performance Capture from Monocular Video (2018) </b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
