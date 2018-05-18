@@ -1,5 +1,5 @@
 # Human Pose Estimation from RGB Camera - The repo
-In recent years, tremendous amount of progress is being made in the field of Human Pose Estimation from RGB Camera, which is an interdisciplinary field that fuses computer vision, deep/machine learning and medicine. This repo is for my study notes and will be used as a place for triaging new research papers. 
+In recent years, tremendous amount of progress is being made in the field of Human Pose Estimation from RGB Camera, which is an interdisciplinary field that fuses computer vision, deep/machine learning and anatomy. This repo is for my study notes and will be used as a place for triaging new research papers. 
 
 ## Get Involved
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
@@ -23,7 +23,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="2d_models" />
 
 ### 2D Models
-<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2016)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
+<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2017)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
 
 <b>:camera::one: Convolutional Pose Machines (2017)</b> [[Paper]](https://arxiv.org/pdf/1602.00134.pdf)
 
@@ -59,4 +59,4 @@ Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://dense
 
 <b>:camera::one: Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (2017)</b> [[Paper]](https://arxiv.org/pdf/1701.00295.pdf)
 
-<b>:camera::one: MonoPerfCap: Human Performance Capture from Monocular Video (2018) </b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
+<b>:camera::one: MonoPerfCap: Human Performance Capture from Monocular Video (2018)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
