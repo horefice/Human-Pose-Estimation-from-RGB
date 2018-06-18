@@ -25,7 +25,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ### 2D Models
 <b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2017)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
 
-<b>:camera::one: Convolutional Pose Machines (2017)</b> [[Paper]](https://arxiv.org/pdf/1602.00134.pdf)
+<b>:camera::one: Stacked Hourglass Networks for Human Pose Estimation (2016)</b> [[Paper]](https://arxiv.org/pdf/1603.06937.pdf)
+
+<b>:camera::one: Convolutional Pose Machines (2016)</b> [[Paper]](https://arxiv.org/pdf/1602.00134.pdf)
 
 <b>:camera::one: Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1705.00389.pdf)
 
