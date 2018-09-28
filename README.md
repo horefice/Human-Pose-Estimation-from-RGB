@@ -31,6 +31,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one: Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1705.00389.pdf)
 
+<b>:camera::one: Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation (2017)</b> [[Project page]](https://github.com/Guanghan/GNet-pose) [[Paper]](https://arxiv.org/pdf/1705.02407.pdf)
+
 <a name="3d_models" />
 
 ### 3D Models
@@ -65,3 +67,11 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::one: Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations (2018)</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html) [[Paper]](https://arxiv.org/pdf/1803.08244.pdf)
 
 <b>:camera::one: 3D Human Pose Estimation in the Wild by Adversarial Learning (2018)</b> [[Paper]](https://arxiv.org/pdf/1803.09722.pdf)
+
+<b>:camera::1234: Deep Human Pose Estimation Using Cascade of Multiple Neural Networks (2018)</b> [[Paper]](https://ieeexplore.ieee.org/document/8432121/)
+
+<b>:movie_camera::one: Deep 3D Human Pose Estimation Under Partial Body Presence (2018)</b> [[Paper]](https://ieeexplore.ieee.org/document/8451031)
+
+<b>:movie_camera::one: 3D Ego-Pose Estimation via Imitation Learning (2018)</b> [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf)
+
+<b>:camera::one: Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation (2018)</b> [[Paper]](https://arxiv.org/pdf/1808.05942.pdf)
